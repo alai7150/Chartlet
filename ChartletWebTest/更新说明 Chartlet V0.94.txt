@@ -1,0 +1,37 @@
+Chartlet v0.94 发行说明
+
+Chartlet-Smart Chart Control For .Net2.0/.Net3.5  Copyright (C) 2009 FanG Corp.
+
+Chartlet已经更新到v.94，在这次版本升级中，我们对Chartlet做了较大的更新，可能
+会给以往的用户带来一些不便，特出此声明。
+
+- 属性大调整
+  为了让大家更容易把握Chartlet的属性，我们创建了9个复合属性，并把以前的一些属性
+  如（FillColorStyle,StrokColorStyle，TipsShow等）都放到复合属性里去了。
+  现在需要这样调用：Chartlet.Fill.ColorStyle,Chartlet.Stroke.ColorStyle
+  Chartlet.Tips.Show 等
+  
+  所以如果您更新到v0.94版本，则以前写的一些代码需要做一些小的修改。
+  详细属性介绍请参照：ChartletAttibutes.txt
+
+- 丰富的文字样式设定
+  现在几乎每个复合属性都包含有Font和ForeColor属性，用来控制相应模块的文字样式。
+  如：Chartlet.ColorGuider.Font,Chartlet.XLabels.Font,Chartlet.ChartTile.Font等
+
+  这些对文字样式的控制会让你对Chartlet的设置更为随心所欲，这也是大家早就期望的。
+
+- X坐标抽样率的设置
+  这次我们提供了X坐标的抽样率的控制，当数据比较多时，可以对X坐标进行抽样显示，
+  避免X坐标过多而演变一团黑色。
+  代码：Chartlet.XLabels.SampleSize=n（n为整数，代表每n个数据显示一个X坐标）
+
+- 图片保存名称的简化
+  记得有网友在Chartlet.cn上留言，说要调用Chartlet生成的图片，而我们的图片名称
+  又不固定，现在我们做了调整。图片保存的文件名格式为：FanG_Chartlet_ControlID.Jpg
+  其中ControlID就是你的Chartlet控件的ID
+
+这次调整肯定会给以往用户带来一些不便，但是总归会对大家的以后使用带来更大的方便，
+让大家更容易控制Chartlet的属性。
+
+FanG Corp. 2009/9/16
+

@@ -1,0 +1,19 @@
+			Chartlet 使用说明
+一个属性设置，一个数据源绑定，就能将你数据库中的数据显示成漂亮的统计图。这就
+是Chartlet，完全免费的ASP.NET图表控件，简单超乎你的想象
+
+下载包说明：
+您下载的压缩包包含一个ASP.NET示例网站，其中控件Chartlet.dll放置在Bin文件夹中，
+App_Data文件夹中包含一个Chartlet.mdb示例数据库，Gallery文件夹中是一些示例
+图片，根目录下有几个.aspx的示例程序，简单演示了Chartlet的使用方法。
+其中index.aspx是最简洁最典型的示例，其他示例都使用了复杂模式编程，为你深入研
+究Chartlet提供一些帮助。
+
+使用方法：如果你要查看示例请将压缩包里的文件解压到您的IIS根目录下，然后在浏
+览器中查看.aspx网页。如果你仅仅想使用Chartlet图表控件，直接把Chartlet.dll控
+件复制到你网站项目的Bin目录下即可在网页上调用。
+
+Chartlet详细使用方法请参阅Chartlet-Help.pdf。
+获得更多信息，最新版本 请登陆主页 http://www.Chartlet.cn
+
+Copyright (c) FanG Corporation

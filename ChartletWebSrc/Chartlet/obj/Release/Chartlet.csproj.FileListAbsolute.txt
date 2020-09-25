@@ -1,0 +1,30 @@
+C:\Documents and Settings\zhaoyb\Local Settings\Application Data\Temporary Projects\Chartlet\bin\Release\Chartlet.dll
+C:\Documents and Settings\zhaoyb\Local Settings\Application Data\Temporary Projects\Chartlet\bin\Release\Chartlet.pdb
+C:\Documents and Settings\zhaoyb\Local Settings\Application Data\Temporary Projects\Chartlet\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\zhaoyb\Local Settings\Application Data\Temporary Projects\Chartlet\obj\Release\Chartlet.dll
+C:\Documents and Settings\zhaoyb\Local Settings\Application Data\Temporary Projects\Chartlet\obj\Release\Chartlet.pdb
+E:\CSharpProj\Chartlet\Chartlet\bin\Release\Chartlet.dll
+E:\CSharpProj\Chartlet\Chartlet\bin\Release\Chartlet.pdb
+E:\CSharpProj\Chartlet\Chartlet\obj\Release\ResolveAssemblyReference.cache
+E:\CSharpProj\Chartlet\Chartlet\obj\Release\Chartlet.dll
+E:\CSharpProj\Chartlet\Chartlet\obj\Release\Chartlet.pdb
+G:\桌面备份\VC#Projects\Chartlet\Chartlet\bin\Release\Chartlet.dll
+G:\桌面备份\VC#Projects\Chartlet\Chartlet\bin\Release\Chartlet.pdb
+G:\桌面备份\VC#Projects\Chartlet\Chartlet\obj\Release\ResolveAssemblyReference.cache
+G:\桌面备份\VC#Projects\Chartlet\Chartlet\obj\Release\Chartlet.dll
+G:\桌面备份\VC#Projects\Chartlet\Chartlet\obj\Release\Chartlet.pdb
+C:\备份\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.dll
+C:\备份\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.pdb
+C:\备份\Chartlet\C#.NET\Chartlet\obj\Release\ResolveAssemblyReference.cache
+C:\备份\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.dll
+C:\备份\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.pdb
+D:\Study Materials\My Compose\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.dll
+D:\Study Materials\My Compose\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.pdb
+D:\Study Materials\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\ResolveAssemblyReference.cache
+D:\Study Materials\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.dll
+D:\Study Materials\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.pdb
+F:\My Compose\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.dll
+F:\My Compose\Chartlet\C#.NET\Chartlet\bin\Release\Chartlet.pdb
+F:\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\ResolveAssemblyReference.cache
+F:\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.dll
+F:\My Compose\Chartlet\C#.NET\Chartlet\obj\Release\Chartlet.pdb

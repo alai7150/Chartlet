@@ -1,0 +1,5 @@
+E:\CSharpProj\Chartlet\Chartlet\bin\Debug\Chartlet.dll
+E:\CSharpProj\Chartlet\Chartlet\bin\Debug\Chartlet.pdb
+E:\CSharpProj\Chartlet\Chartlet\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProj\Chartlet\Chartlet\obj\Debug\Chartlet.dll
+E:\CSharpProj\Chartlet\Chartlet\obj\Debug\Chartlet.pdb
