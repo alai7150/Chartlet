@@ -1,0 +1,21 @@
+C:\备份\Chartlet-Win\Chartlet\Chartlet\obj\Release\ResolveAssemblyReference.cache
+C:\备份\Chartlet-Win\Chartlet\Chartlet\bin\Release\Chartlet.dll
+C:\备份\Chartlet-Win\Chartlet\Chartlet\bin\Release\Chartlet.pdb
+C:\备份\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.dll
+C:\备份\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.pdb
+C:\备份\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.csproj.GenerateResource.Cache
+C:\备份\Chartlet-Win\Chartlet\Chartlet\obj\Release\FanG.Chartlet.resources
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\bin\Release\Chartlet.dll
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\bin\Release\Chartlet.pdb
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\obj\Release\ResolveAssemblyReference.cache
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\obj\Release\FanG.Chartlet.resources
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.csproj.GenerateResource.Cache
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.dll
+F:\My Compose\Chartlet-Win\Chartlet\Chartlet\obj\Release\Chartlet.pdb
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\bin\Release\Chartlet.dll
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\bin\Release\Chartlet.pdb
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\obj\Release\FanG.Chartlet.resources
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\obj\Release\Chartlet.csproj.GenerateResource.cache
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\obj\Release\Chartlet.csproj.CoreCompileInputs.cache
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\obj\Release\Chartlet.dll
+E:\Nornion\14. Chartlet\ChartletWinSrc\Chartlet\obj\Release\Chartlet.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test2", "test2\test2.csproj", "{70142DC2-6187-4647-A687-A9BDF3149914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chartlet", "..\ChartletWinSrc\Chartlet\Chartlet.csproj", "{8D6BF01A-38FD-4AE2-9E9F-6A67BDDF6410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70142DC2-6187-4647-A687-A9BDF3149914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70142DC2-6187-4647-A687-A9BDF3149914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70142DC2-6187-4647-A687-A9BDF3149914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70142DC2-6187-4647-A687-A9BDF3149914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6BF01A-38FD-4AE2-9E9F-6A67BDDF6410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6BF01A-38FD-4AE2-9E9F-6A67BDDF6410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6BF01A-38FD-4AE2-9E9F-6A67BDDF6410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6BF01A-38FD-4AE2-9E9F-6A67BDDF6410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3B3B89-AF1A-423D-A81E-4525F808692B}
+	EndGlobalSection
+EndGlobal

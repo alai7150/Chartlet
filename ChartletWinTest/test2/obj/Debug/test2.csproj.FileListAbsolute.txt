@@ -1,0 +1,20 @@
+C:\备份\TestSample\test2\test2\bin\Debug\test2.exe
+C:\备份\TestSample\test2\test2\bin\Debug\test2.pdb
+C:\备份\TestSample\test2\test2\bin\Debug\Chartlet.dll
+C:\备份\TestSample\test2\test2\bin\Debug\Chartlet.pdb
+C:\备份\TestSample\test2\test2\obj\Debug\ResolveAssemblyReference.cache
+C:\备份\TestSample\test2\test2\obj\Debug\test2.Form1.resources
+C:\备份\TestSample\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\备份\TestSample\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\备份\TestSample\test2\test2\obj\Debug\test2.exe
+C:\备份\TestSample\test2\test2\obj\Debug\test2.pdb
+F:\My Compose\TestSample\test2\test2\bin\Debug\test2.exe
+F:\My Compose\TestSample\test2\test2\bin\Debug\test2.pdb
+F:\My Compose\TestSample\test2\test2\bin\Debug\Chartlet.dll
+F:\My Compose\TestSample\test2\test2\bin\Debug\Chartlet.pdb
+F:\My Compose\TestSample\test2\test2\obj\Debug\ResolveAssemblyReference.cache
+F:\My Compose\TestSample\test2\test2\obj\Debug\test2.Form1.resources
+F:\My Compose\TestSample\test2\test2\obj\Debug\test2.Properties.Resources.resources
+F:\My Compose\TestSample\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+F:\My Compose\TestSample\test2\test2\obj\Debug\test2.exe
+F:\My Compose\TestSample\test2\test2\obj\Debug\test2.pdb
